@@ -1,3 +1,5 @@
+# Break exits a loop if a certain condition is met
+# Continue goes forth with the loop if the condition is met
 cars = ["ok", "ok", "ok", "faulty", "ok", "ok"]
 
 for status in cars:
